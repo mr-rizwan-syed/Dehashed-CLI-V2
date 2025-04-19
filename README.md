@@ -1,6 +1,7 @@
 # 🔍 Dehashed Data Extractor
 
 Fetch and process leaked credentials and personal information from the [Dehashed API](https://www.dehashed.com/) for a specific domain.
+This tool is fully compatible with the latest DeHashed V2 API, ensuring accurate and up-to-date breach data retrieval.
 
 ---
 
@@ -25,3 +26,6 @@ Fetch and process leaked credentials and personal information from the [Dehashed
 
 ```bash
 python main.py -d <domain.com> -k <DEHASHED_API_KEY>
+```
+
+![DeHashed Tool Demo](https://i.imgur.com/5vkkp9c.png)
